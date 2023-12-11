@@ -117,3 +117,4 @@ def slot_machine():
 #main program fuction calling section
 ask_user()
 slot_machine()
+
